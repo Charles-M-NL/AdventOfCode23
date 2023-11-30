@@ -1,4 +1,4 @@
 # AdventOfCode23
 
-Charles' Advent of code 2023\n
+Charles' Advent of code 2023\
 https://adventofcode.com/
